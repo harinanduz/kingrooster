@@ -15,7 +15,7 @@ from kingrooster import MONGO_DB_URI
 
 client = MongoClient()
 client = MongoClient(MONGO_DB_URI)
-db = client["misskingroosterrobot"]
+db = client["kingroosterbot"]
 gbanned = db.gban
 
 
