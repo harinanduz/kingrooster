@@ -38,9 +38,9 @@ PM_START_TEXT = (
     "[kingrooster](https://telegra.ph/file/27ce4145ad9e429899bd6.jpg)"
     + "ഇത് KK ARMY എന്ന കോഴിക്കൂടിൻ്റെ ഒഫീഷ്യൽ group management bot . ഒരു രസത്തിന് വേണ്ടി തുടങ്ങിയത് ആണേലും ഇത് ഞങ്ങൾക്ക് ഇപ്പൊ സ്വന്തം എന്ന് പറയാൻ ഒരു ഫാമിലി ആണ് ."
     + "*ഓണേഴ്സ്*"
-    + "*[![heavenhater](https://t.me/heavenhater_007)]*",
-    + "*[![darkdevil](https://t.me/vaasukionfire7966)]*",
-    + "*[![midhun mathai](https://t.me/L_The_Fallen_Angel)]*",
+    + "*[![heavenhater](https://t.me/heavenhater_007)]*"
+    + "*[![darkdevil](https://t.me/vaasukionfire7966)]*"
+    + "**"
     + "V"
     + BOT_VERSION
     + "**"
