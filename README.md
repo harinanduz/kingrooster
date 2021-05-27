@@ -14,6 +14,6 @@ Deploy KINGROOSTER to Heroku:
 ## Credits
 **Thanks to these projects which helped me a lot to make this awesome bot**
  
- # [![vishakh ithippara](https://t.me/heavenhater_007)]
- # [![സഖാവ് വാവ](https://t.me/Iratta_ChunkanRc)]
+ ![vishakh ithippara](https://t.me/heavenhater_007)
+ ![സഖാവ് വാവ](https://t.me/Iratta_ChunkanRc)
    
