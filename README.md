@@ -7,7 +7,7 @@
  
 Can be found on telegram as [kingrooster](https://t.me/The_kingroosterbot)
 
-Deploy Julia to Heroku:
+Deploy KINGROOSTER to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/sakhaavvaavaj93/kingrooster/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on your risk" /></a></p>
 
