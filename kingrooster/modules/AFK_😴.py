@@ -1,6 +1,4 @@
 import os
-from client = MongoClient(MONGO_DB_URI)
-client = MongoClient(MONGO_DB_URI)
 client = MongoClient(MONGO_DB_URI)
 db = client["kingroosterbot"]
 approved_users = db.approve
